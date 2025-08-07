@@ -42,7 +42,7 @@ Este proyecto es una aplicación web sencilla para organizar un sorteo de "Amigo
 ## Estructura del Proyecto
 
 ```
-amigo-secreto/
+Pagina-amigo-secreto/
 │
 ├── index.html        # Página principal de la aplicación
 ├── app.js            # Lógica de la aplicación en JavaScript
